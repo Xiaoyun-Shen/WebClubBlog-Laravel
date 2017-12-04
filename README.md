@@ -1,6 +1,6 @@
 # blog-Laravel
 
- This small application was built during the 5 weeks Ontario college strike.
+ This small application was built during the Ontario college strike.
  
  The purpose of this application is to learn and practice the latest Laravel as a beginner.
  
