@@ -2,7 +2,7 @@
 
  This small application was built during the Ontario college strike.
  
- The purpose of this application is to learn and practice the latest Laravel as a beginner.
+ The purpose of this application is to learn and practice the latest Laravel.
  
  The project use Clean Blog (Bootstrap blog theme) and AdminLTE Control Panel Template.
  
