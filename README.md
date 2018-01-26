@@ -1,6 +1,6 @@
 # blog-Laravel
 
- This small application was built during the Ontario college strike.
+ This small application was built during the Ontario college strike followed the tutorials on YouTube- Blog with Admin Panel by Bitfumes Webnologies.
  
  The purpose of this application is to learn and practice the latest Laravel.
  
